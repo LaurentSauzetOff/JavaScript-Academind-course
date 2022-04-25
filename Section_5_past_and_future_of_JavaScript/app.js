@@ -1,13 +1,12 @@
-let name = 'Max';
+let name = 'Laurent';
 
-if (name === 'Max') {
+if (name === 'Laurent') {
   let hobbies = ['Sports', 'Cooking'];
   console.log(hobbies);
-
 }
 
 function greet() {
-  let age = 30;
+  let age = 40;
   let name = 'Manuel';
   console.log(name, age, hobbies);
 }
