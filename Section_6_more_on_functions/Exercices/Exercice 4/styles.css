@@ -1,0 +1,25 @@
+/* Your CSS styles can be defined here */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  background-color: #0077b6;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+ol {
+  margin: 20px;
+  padding: 0;
+  list-style-type: decimal;
+}
+
+li {
+  margin: 10px 0;
+  padding-left: 20px;
+}
