@@ -34,3 +34,10 @@ for (const data of analyticsData) {
 }
 
 console.log(personalData[1]);
+
+const hobbies2 = ["Sports", "Cooking"];
+hobbies2.push("Music");
+hobbies2.unshift("Sports");
+const poppedValue = hobbies2.pop();
+hobbies2.shift();
+console.log(hobbies2);
